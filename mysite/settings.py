@@ -25,7 +25,11 @@ SECRET_KEY = 'dfl%#rvf81bw&82yslnddp(iv*!ff$us1ks0wmz%=1g*@ke0vm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+<<<<<<< HEAD
 ALLOWED_HOSTS = ['stamw.pythonanywhere.com']
+=======
+ALLOWED_HOSTS = ['stamw.pythonanywhere.com','127.0.0.1']
+>>>>>>> Changed the HTML for the site.
 
 
 # Application definition
